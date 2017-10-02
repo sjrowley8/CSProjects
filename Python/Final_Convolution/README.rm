@@ -1,0 +1,4 @@
+This is a project based around Neural Networks and the game Pong.  The AI paddle is a convolutional NN that
+learned to play Pong based on a flat grid of input pixels.  This project uses Pygame and Theano.
+
+https://imgur.com/txpggFG
