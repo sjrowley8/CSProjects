@@ -2,4 +2,3 @@ This is a project based around Neural Networks and the game Pong.  The AI paddle
 learned to play Pong based on a flat grid of input pixels.  This project uses Pygame and Theano.
 ![gif](https://user-images.githubusercontent.com/17166965/31129362-eef6f36c-a819-11e7-98f6-158dfee5d57a.gif)
 
-[![alt tag](https://user-images.githubusercontent.com/17166965/31129362-eef6f36c-a819-11e7-98f6-158dfee5d57a.gif)]
